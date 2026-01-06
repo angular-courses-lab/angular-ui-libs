@@ -16,9 +16,9 @@ export class App {
       libraryLogo: 'https://avatars.githubusercontent.com/u/140506044?s=200&v=4',
     },
     {
-      url: 'https://angular-ui-libs-material.vercel.app/buttons/basic',
-      library: 'Material',
-      libraryLogo: 'https://avatars.githubusercontent.com/u/140506044?s=200&v=4',
+      url: 'https://angular-ui-libs-primeng.vercel.app/buttons/basic',
+      library: 'PrimeNG',
+      libraryLogo: 'https://avatars.githubusercontent.com/u/3494069?s=200&v=4',
     },
     {
       url: 'https://angular-ui-libs-material.vercel.app/buttons/basic',
