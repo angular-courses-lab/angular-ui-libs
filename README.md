@@ -1,5 +1,5 @@
 ## Add a new library project
 
 ```bash
-pnpm create @angular@latest --skip-git
+pnpm create @angular@latest --skip-git --style=css
 ```
