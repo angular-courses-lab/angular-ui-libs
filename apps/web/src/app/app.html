@@ -1,1 +1,3 @@
-<iframe src="https://taiga-ui-lib.angular.courses/buttons/basic" width="100%" height="100%"></iframe>
+@for (component of components(); track component.url) {
+  <app-component-card [url]="component.url" [library]="component.library" [libraryLogo]="component.libraryLogo"></app-component-card>
+}
