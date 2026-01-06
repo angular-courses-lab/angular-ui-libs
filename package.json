@@ -1,13 +1,14 @@
 {
   "name": "angular-ui-libs",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "description": "A collection of Angular UI libraries",
+  "scripts": {},
+  "keywords": [
+    "angular",
+    "ui",
+    "libs"
+  ],
+  "author": "Gerome Grignon",
+  "license": "MIT",
   "packageManager": "pnpm@10.17.0"
 }
